@@ -28,7 +28,6 @@ feature:
   - icon: chart-bar
     icon_pack: fas
     name: MATLAB
-   name: Economics & Statistics
   - icon: chart-tree-map
     icon_pack: fas
     name: STATA
