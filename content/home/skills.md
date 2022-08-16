@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: MATLAB
    name: Economics & Statistics
-  - icon: chart-tree-map
+  - icon: fa-duotone fa-chart-tree-map
     icon_pack: fas
     name: STATA
   - icon: git-alt
