@@ -9,12 +9,9 @@ interests:
   - Wealth Inequality
   - Monetary Policy
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gcushen/Sshahr/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shabnam-shahrezaei-08800014b
