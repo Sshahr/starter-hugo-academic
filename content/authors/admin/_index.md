@@ -22,7 +22,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: Emory University
-      year: 2018
+      year: 2026
     - course: M.Sc. in Mathematics
       institution: Illinois State University
       year: 2021
