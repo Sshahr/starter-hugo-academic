@@ -2,8 +2,8 @@
 title: Shabnam Shahrezaei
 role: Economics Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests are Applied Macroeconomics, Time Series Econometrics
+  and Fiscal and Monetary Policy.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +42,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Shabnam Shahrezaei is a second-year Economics Ph.D. student at Emory University. Her research interests include Applied Macroeconomics, Time Series Econometrics and Fiscal and Monetary Policy. She completed a bachelor's degree in economics from University of Tehran. She went on to earn a double master's degree in Quantitative Economics and Applied Mathematics from Illinois State University. Shabnam was a research assistant at Illinois State University working in the field of macroeconomics.
