@@ -28,7 +28,7 @@ feature:
   - icon: chart-bar
     icon_pack: fas
     name: MATLAB
-  - icon: chart-tree
+  - icon: chart-pie
     icon_pack: fas
     name: STATA
   - icon: git-alt
