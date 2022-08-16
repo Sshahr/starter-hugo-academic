@@ -28,6 +28,10 @@ feature:
   - icon: chart-bar
     icon_pack: fas
     name: MATLAB
+   name: Economics & Statistics
+  - icon: chart-graph
+    icon_pack: fas
+    name: STATA
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
