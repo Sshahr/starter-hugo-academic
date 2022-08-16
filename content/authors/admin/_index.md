@@ -11,7 +11,7 @@ interests:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen/Sshahr/
+    link: https://github.com/Sshahr/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shabnam-shahrezaei-08800014b
