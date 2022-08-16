@@ -20,16 +20,19 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Economics
+      institution: Emory University
+      year: 2018
+    - course: M.Sc. in Mathematics
+      institution: Illinois State University
+      year: 2021
+    - course: M.Sc. in Quantitative Economics
+      institution: Illinois State University
+      year: 2020
+    - course: B.Sc. in Economics
+      institution: University of Tehran
+      year: 2018
+email: Sshahr5@emory.edu
 superuser: true
 highlight_name: true
 ---
