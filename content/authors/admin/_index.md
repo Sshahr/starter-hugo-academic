@@ -16,8 +16,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shabnam-shahrezaei-08800014b
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Emory University
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
