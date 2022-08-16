@@ -29,9 +29,18 @@ feature:
     icon_pack: fas
     name: MATLAB
    name: Economics & Statistics
-  - icon: chart-graph
+  - icon: chart-tree-map
     icon_pack: fas
     name: STATA
+  - icon: git-alt
+    icon_pack: fab
+    name: Git
+   - icon: github
+    icon_pack: fab
+    name: Github
+   - icon: overleaf
+    icon_pack: ai
+    name: Overleaf
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
