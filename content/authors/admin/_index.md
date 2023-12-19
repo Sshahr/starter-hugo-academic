@@ -2,12 +2,11 @@
 title: Shabnam Shahrezaei
 role: Economics Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests are Applied Macroeconomics, Time Series Econometrics
-  and Fiscal and Monetary Policy.
+
 interests:
   - Applied Macroeconomics
   - Wealth Inequality
-  - Monetary Policy
+  - Social Security System
 social:
   - icon: github
     icon_pack: fab
@@ -36,4 +35,9 @@ email: Sshahr5@emory.edu
 superuser: true
 highlight_name: true
 ---
-Shabnam Shahrezaei is a second-year Economics Ph.D. student at Emory University. Her research interests include Applied Macroeconomics, Time Series Econometrics and Fiscal and Monetary Policy. She completed a bachelor's degree in economics from University of Tehran. She went on to earn a double master's degree in Quantitative Economics and Applied Mathematics from Illinois State University. Shabnam was a research assistant at Illinois State University working in the field of macroeconomics.
+Welcome to my webpage!
+I am a third-year Economics Ph.D. student at Emory University. I am working under the supervision of Dr. Karen Kopecky. Before joining Emory, I graduated from Illinois State University with a MSc in Mathematics and a MSc in Economics. 
+
+My research interests lie broadly in macroeconomics and quantitative modeling. I am particularly intrested in studying racial wealth inequality and social security systems. I also have a growing interest in Heterogeneous Agent New Keynesian (HANK) models. 
+
+In my free time, I enjoy painting, playing soccer and reading poetry. I am a huge fan of Rumi!
